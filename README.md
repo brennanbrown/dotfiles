@@ -5,6 +5,8 @@ This repository contains a collection of shell scripts and configuration files f
 ## Contents
 
 - `fresh_install.sh`: A comprehensive script that installs essential software packages, development tools (Node.js, Python, Java, Docker), productivity applications, multimedia tools, and configures various system settings. It also includes additional software based on personal preferences, such as productivity tools, academic/research tools, web development tools, music players, chess applications, mindfulness tools, and more.
+- `academic-install.sh`: Installs software, tools, and utilities tailored for an academic environment, including LaTeX, scientific software, reference management tools, writing and productivity tools, academic search tools, version control tools, cloud storage and sync tools, virtual machine and container tools, and academic fonts.
+- `tweaks.sh`: Applies various tweaks and customizations to the Ubuntu desktop environment, such as enabling "minimize to click" behavior, disabling automatic suspend, enabling night light, and more.
 - `fonts-install.sh`: Installs a curated selection of high-quality fonts, including fonts from the apt repositories and additional fonts downloaded from Google Fonts.
 - `noto.sh`: Script for removing unwanted Noto fonts from the system, keeping only a curated selection. It creates a backup directory for the removed fonts.
 - `noto-recover.sh`: Restores the previously removed Noto fonts from the backup directory created by `noto.sh`.
